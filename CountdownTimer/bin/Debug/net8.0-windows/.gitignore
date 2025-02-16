@@ -1,0 +1,62 @@
+# Build and Visual Studio files
+bin/
+obj/
+.vscode/
+.vs/
+*.user
+*.suo
+*.ilk
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.ttf
+*.exe
+*.dll
+*.cache
+*.log
+*.csproj.user
+*.csproj.DotSettings
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+
+# Rider and JetBrains IDE files
+.idea/
+*.sln.iml
+
+# Resharper and other tools
+_ReSharper.Caches/
+*.DotSettings.user
+
+# Test results and coverage
+TestResults/
+*.coverage
+*.testresults
+
+# Database and configuration
+*.mdf
+*.ldf
+*.sqlite
+*.db
+appsettings.json
+appsettings.*.json
+secrets.json
+
+# Publish outputs
+publish/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
+~*
+*.swp
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db

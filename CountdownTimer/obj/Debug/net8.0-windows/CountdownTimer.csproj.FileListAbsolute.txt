@@ -1,0 +1,16 @@
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\bin\Debug\net8.0-windows\CountdownTimer.exe
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\bin\Debug\net8.0-windows\CountdownTimer.deps.json
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\bin\Debug\net8.0-windows\CountdownTimer.runtimeconfig.json
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\bin\Debug\net8.0-windows\CountdownTimer.dll
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\bin\Debug\net8.0-windows\CountdownTimer.pdb
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.Form1.resources
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.csproj.GenerateResource.cache
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.AssemblyInfoInputs.cache
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.AssemblyInfo.cs
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.dll
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\refint\CountdownTimer.dll
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.pdb
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\CountdownTimer.genruntimeconfig.cache
+C:\Users\L A\source\repos\CountdownTimer\CountdownTimer\obj\Debug\net8.0-windows\ref\CountdownTimer.dll
